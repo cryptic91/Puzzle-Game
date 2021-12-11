@@ -11,7 +11,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author JISHAN
+ * @author SHANTO
  */
 
 public class PuzzleGame extends javax.swing.JFrame {
